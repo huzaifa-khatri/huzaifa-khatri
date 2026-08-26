@@ -11,6 +11,7 @@ Building reliable applications with a focus on clean architecture, maintainabili
 ![Location](https://img.shields.io/badge/Based_in-Germany-1F2937?style=flat-square&logo=googlemaps&logoColor=white)
 ![Experience](https://img.shields.io/badge/Professional_Experience-4%2B_years-2563EB?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open_to_opportunities-16A34A?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=huzaifa-khatri&label=Profile+views&color=2563EB&style=flat-square)
 
 </div>
 
