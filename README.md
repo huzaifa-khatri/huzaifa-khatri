@@ -109,7 +109,7 @@ I'm turning selected engineering work and new ideas into **public, production-st
 
 The goal isn't to collect repositories—it's to build and document systems that demonstrate **architecture, engineering decisions, testing, reliability, and real-world trade-offs**.
 
-## `// github`
+<!-- ## `// github`
 
 <div align="center">
 <table align="center">
@@ -131,7 +131,7 @@ The goal isn't to collect repositories—it's to build and document systems that
   </tr>
 </table>
 
-</div>
+</div> -->
 
 ## `// beyond code`
 
